@@ -1,11 +1,10 @@
 employee_id,employee_name,department,state,salary,age,bonus
 2001,Vasanth,Finance,AK,4027,43,1290
-1003,Tamra Amber,Accounts,AK,5717,47,1291
 2004,Kiran,Purchasing,CA,5685,34,1394
-1005,Zollner Karie,Accounts,CA,2843,27,1078
-1006,Kaczorowski Zollner,Sales,CA,7201,21,1834
+2005,Nag,Accounts,CA,2843,27,1078
+2006,Pavan,Sales,CA,7201,21,1834
 2007,Suresh,Marketing,LA,3444,23,1823
-1008,Recalde Kensinger,Accounts,LA,3704,48,1330
+2008,Yash,Accounts,LA,3704,48,1330
 1009,Imai Hallie,Accounts,AK,5061,38,1557
 1010,Debroah Gallman,Accounts,NY,9308,35,817
 1011,Barringer Escoto,Purchasing,WA,1685,49,1706
